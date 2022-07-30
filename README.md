@@ -31,3 +31,4 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuukiiwai/contributions.svg" />
   </a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuukiiwai)](https://github.com/yuukiiwai/github-readme-stats)
