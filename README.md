@@ -18,20 +18,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/yuukiiwai/yuukiiwai/">
     <img src="https://komarev.com/ghpvc/?username=yuukiiwai" alt="yuukiiwai" />
   </a>
-  <a href="http://twitter.com/yuukiiwai">
+  <a href="http://twitter.com/y_u_k_i_open">
     <img height="20" src="https://img.shields.io/twitter/follow/yuukiiwai?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/yuukiiwai">
     <img height="20" src="https://img.shields.io/github/followers/yuukiiwai?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/yuukiiwai">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yuukiiwai?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/yuukiiwai">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/yuukiiwai">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yuukiiwai/posts.svg" />
+  <a href="http://qiita.com/student-bbb">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/student-bbb/posts.svg" />
   </a>
   <//qiita.com/yuukiiwai">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuukiiwai/contributions.svg" />
