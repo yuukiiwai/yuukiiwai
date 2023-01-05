@@ -80,3 +80,4 @@ Here are some ideas to get you started:
 <a href="https://www.npmjs.com/~yuukiiwai">npmプロフィールページ</a>
 <h3>My Service Pages</h3>
 <a href="https://scf.yukiserv.com">グラボ検索</a>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRbOvzj75n1gM1--q6sIlMd8fRhlHsyMvVM2TY9upUTtdJBVk9Y4f0BHGOi6C_ar79TstuqK9ea3BdY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
