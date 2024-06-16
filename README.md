@@ -18,9 +18,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/yuukiiwai/yuukiiwai/">
     <img src="https://komarev.com/ghpvc/?username=yuukiiwai" alt="yuukiiwai" />
   </a>
-  <a href="http://twitter.com/y_u_k_i_open">
-    <img height="20" src="https://img.shields.io/twitter/follow/yuukiiwai?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/yuukiiwai">
     <img height="20" src="https://img.shields.io/github/followers/yuukiiwai?label=follow&logo=github&style=flat" />
   </a>
